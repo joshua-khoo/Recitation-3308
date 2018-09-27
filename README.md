@@ -7,4 +7,4 @@
 
 
 # This might cause a merge conflict
-# Attempt 3 to create merge conflict
+I am not causing a merge conflict
