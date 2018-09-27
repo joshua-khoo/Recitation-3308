@@ -2,4 +2,5 @@
 Joshua Khoo
 Partner: Jonathan Noranbrock
 CSCI-3308 Lab 4 
+Git conflict error
 Version Control
